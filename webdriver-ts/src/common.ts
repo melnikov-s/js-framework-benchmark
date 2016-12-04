@@ -27,6 +27,7 @@ function f(name: string, uri: string = null, useShadowRoot = false): FrameworkDa
 export let frameworks = [
     f("angular-v1.5.8"),
     f("angular-v2.2.1"),
+    f("anvoy-v0.1.0"),
     f("aurelia-v1.0.7", "aurelia-v1.0.7/dist"),
     f("bobril-v4.49.2"),
     f("cyclejs-dom-v14.1.0"),
